@@ -20,7 +20,10 @@ Connections:
  	LED Cathode --> ESP32 GND
 
 DEMO VIDEO LINK: 
-https://youtu.be/bdQY1Nj-kdI?si=1sH-HrkyCtkdK87l
+DEMO VIDEO LINK: 
+YOUTUBE: https://youtu.be/bdQY1Nj-kdI?si=1sH-HrkyCtkdK87l
+
+Google Drive: https://drive.google.com/file/d/1Ax3-ncE2lOYHhZ6qJfbcIpFDfXrfRUIk/view?usp=sharing
 
 
 Overall block diagram:
