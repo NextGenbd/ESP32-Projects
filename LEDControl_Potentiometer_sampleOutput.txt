@@ -1,0 +1,25 @@
+>>> %Run -c $EDITOR_CONTENT
+
+MPY: soft reboot
+Enter current date/time in EDT (weekdays: 0=Mon, 1 = Tue, 2 = Wed,.... 6=Sun)
+Year? 2026
+Month? 3
+Day? 6
+Weekday? 6
+Hour? 9
+Minute? 38
+Second? 6776
+Microsecond? 5646
+RTC initialized.
+DATE: 2026-03-06  (weekday=4)
+TIME: 11:30:56
+Starting PWM @ 10 Hz, duty 512 (about 50%).
+Printing date/time every 30 seconds. Reading pot every 100 ms.
+Press the button to toggle control between frequency control or  dutycycle control.
+
+MODE: Pot controls PWM FREQUENCY (Hz). Duty fixed at 512
+MODE: Pot controls PWM DUTY. Frequency fixed at 10 Hz
+MODE: Pot controls PWM FREQUENCY (Hz). Duty fixed at 570
+MODE: Pot controls PWM DUTY. Frequency fixed at 13 Hz
+DATE: 2026-03-06  (weekday=4)
+TIME: 11:31:26
